@@ -1,7 +1,7 @@
 {
   "name": "airbnb_clone",
   "version": "0.1.0",
-  "homepage": "https://awaneeshsoni.github.io/airbnb_clone_react/",
+  "homepage": "https://awaneeshsoni.github.io/airbnbclone",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

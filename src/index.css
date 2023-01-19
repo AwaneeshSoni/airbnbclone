@@ -38,6 +38,9 @@ nav {
   position: relative;
   font-size: 15px;
 }
+.card:hover{
+  transform: scale(1.03);
+}
 .card-badge {
   position: absolute;
   margin: 20px;
